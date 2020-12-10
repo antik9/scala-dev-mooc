@@ -1,3 +1,7 @@
 .idea
+.metals
+.bloop
+*.swp
 project/target
+project/project
 target
